@@ -13,3 +13,5 @@ mk.test(cd4day$day, continuity = TRUE)
 artday <-  read.csv("F:/CDClast2/ARTDAY.csv", header=T, na.strings="")
 mk.test(artday$ARTDAY, continuity = TRUE)
 ###   z = -3.5642, n = 9, p-value = 0.000365
+
+#A mistake
